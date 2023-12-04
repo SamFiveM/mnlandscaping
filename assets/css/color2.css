@@ -1,0 +1,569 @@
+a:hover,
+a:focus {
+	color: #ba5461;
+	text-decoration: none;
+}
+
+::selection {
+	background: #ba5461;
+	/* Safari */
+	color: #fff;
+}
+
+::-moz-selection {
+	background: #ba5461;
+	/* Firefox */
+	color: #fff;
+}
+
+header {
+	background-color: #ba5461;
+}
+
+ul.navbar-nav li a.active,
+.fixedmenu ul.menu li a.active,
+ul.my_menu ul.sub-menu li a.active {
+	color: #ba5461 !important;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover,
+.navbar-inverse .navbar-nav>li>a:focus {
+	color: #ba5461;
+}
+
+ul.my_menu ul.sub-menu li:hover {
+	background: #ba5461;
+}
+
+ul.my_menu li.eco_bigmenu ul.sub-menu li.eco_pmcmenutitle ul.sub-menu li:hover a {
+	color: #ba5461 !important;
+}
+
+ul.my_menu ul.sub-menu {
+	border-bottom-color: #ba5461;
+	background: rgb(76 34 39) !important;
+}
+
+.menu li a:hover {
+	color: #ba5461;
+}
+
+.tp-leftarrow.default:hover,
+.tp-rightarrow.default:hover {
+	background-color: rgba(186, 84, 97, 0.8) !important;
+}
+
+.eco_slider_head_text,
+.eco_slider_head_text1,
+.eco_slider_head_text2 {
+	color: #ba5461;
+}
+
+.eco_color {
+	color: #ba5461;
+}
+
+.tp-caption a:hover {
+	background: #ba5461;
+}
+
+.eco_service_icon {
+	box-shadow: 0px 0px 0px 5px #ba5461;
+	background: #ba5461;
+}
+
+.eco_service_icon:hover {
+	border-color: #ba5461 !important;
+}
+
+.eco_btn {
+	background: #bc5361;
+	border-bottom-color: #a93d4a;
+}
+
+.eco_border_line {
+	background: #ba5461;
+}
+
+.eco_featured_green img {
+	border: 0px solid #ba5461;
+	background: #ba5461;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active,
+.open>.dropdown-toggle.btn-primary {
+	background-color: #a93d4a !important;
+	border-color: #9e323f !important;
+}
+
+.btn-primary {
+	background-color: #a93d4a !important;
+	border-color: #9e323f !important;
+}
+
+.gototop {
+	background: #bc5361;
+	border-bottom-color: #a93d4a;
+}
+
+.gototop:hover {
+	background-color: #bc5361;
+}
+
+.eco_contact_btn a:hover {
+	background: #ba5461;
+}
+
+.eco_footer_tag a:hover {
+	background: #ba5461;
+	color: #fff;
+}
+
+.eco_footer_content li:hover a {
+	color: #ba5461;
+}
+
+.eco_copyight a {
+	color: #ba5461;
+}
+
+ul.eco_filter_title li a:hover,
+ul.eco_filter_title li a.active {
+	background: #ba5461;
+}
+
+.eco_restoration ul li .eco_restoration_content .eco_restoration_img {
+	background: #ba5461;
+}
+
+.eco_home_count i {
+	color: #ba5461;
+}
+
+.eco_count_number_border {
+	background: #ba5461;
+}
+
+.eco_port_recentimage .eco_port_overdefult {
+	background: rgba(186, 84, 97, 0.8);
+}
+
+.eco-blog-img-hover {
+	background-color: rgba(186, 84, 97, 0.8);
+}
+
+.breadcrumb>.active {
+	color: #ba5461;
+}
+
+.eco_sidebar_post:hover .eco_sidebar_line {
+	border-bottom-color: #ba5461;
+}
+
+.eco_blog_icon,
+.eco_blog_icon:after {
+	background: #ba5461;
+}
+
+.eco_blog_info span a,
+.eco_blog_info a {
+	color: #ba5461;
+}
+
+.pagination>.active>a,
+.pagination>.active>span,
+.pagination>.active>a:hover,
+.pagination>.active>span:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:focus {
+	background-color: #ba5461;
+	border-color: #ba5461;
+}
+
+.pagination>li>a:hover,
+.pagination>li>span:hover,
+.pagination>li>a:focus,
+.pagination>li>span:focus {
+	background-color: #ba5461;
+	border-color: #ba5461;
+}
+
+.eco_bread ol li a:hover {
+	color: #ba5461;
+}
+
+.eco_port_min_recentimage {
+	border-top-color: #ba5461;
+}
+
+blockquote:hover {
+	border-left-color: #ba5461;
+}
+
+.eco_img_icon {
+	border-color: #ba5461;
+	background: #ba5461;
+}
+
+.eco_img_post_data ul li img:hover {
+	border-color: #ba5461;
+}
+
+.btn-success:hover,
+.btn-success:focus,
+.btn-success.focus,
+.btn-success:active,
+.btn-success.active,
+.open>.dropdown-toggle.btn-success {
+	background-color: #ba5461;
+	border-color: #ba5461;
+}
+
+.carousel-control:hover,
+.carousel-control:focus {
+	background: #ba5461;
+}
+
+.eco_port_skill i {
+	color: #ba5461;
+}
+
+.eco_blockquote_blue blockquote:hover,
+.eco_blockquote_red blockquote:hover,
+.eco_blockquote_green blockquote:hover,
+.eco_blockquote_grey blockquote:hover {
+	border-color: #ba5461;
+}
+
+ul.pager i:hover {
+	color: #ba5461;
+}
+
+.eco_blockquote_green blockquote {
+	border-color: #ba5461;
+}
+
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active,
+.ui-state-hover,
+.ui-widget-content .ui-state-hover,
+.ui-widget-header .ui-state-hover,
+.ui-state-focus,
+.ui-widget-content .ui-state-focus,
+.ui-widget-header .ui-state-focus {
+	background-color: #ba5461 !important;
+}
+
+.nav-tabs>li.active:before,
+.nav-tabs>li:hover:before {
+	background-color: #ba5461;
+}
+
+.nav-tabs>li.active:hover,
+.nav-tabs>li:hover,
+.nav-tabs>li.active:focus,
+.nav-tabs>li:focus,
+.nav-tabs>li>a:hover {
+	background: #ba5461;
+}
+
+h6.eco_subheading {
+	color: #ba5461;
+}
+
+h2.eco_trigger.active,
+h2.eco_trigger:hover {
+	background: #ba5461;
+}
+
+.eco_color5 {
+	color: #ba5461;
+}
+
+.progress-bar-success {
+	background-color: #ba5461;
+}
+
+.eco_pricing_green {
+	background-color: #ba5461;
+}
+
+.eco_rounded_pricetable.eco_pricing_green .eco_pricing_heading {
+	background: #a93d4a;
+}
+
+.eco_rounded_pricetable.eco_pricing_green .eco_pricing_heading .eco_table_price {
+	background: #ba5461;
+	border-color: #a93d4a;
+}
+
+.eco_rounded_pricetable.eco_pricing_green ul {
+	background: #ba5461;
+}
+
+.eco_rounded_pricetable.eco_pricing_green a {
+	background: #a93d4a;
+}
+
+.eco_pricing_green.eco_rounded_pricetable {
+	background: none;
+}
+
+.eco_pricing_table_green .eco_pricing_heading {
+	border-bottom-color: #ba5461;
+}
+
+.eco_pricing_table_green .eco_table_price {
+	background: #ba5461;
+	border-color: #a93d4a;
+}
+
+.eco_pricing_table_green .eco_pricing_heading h4 {
+	color: #ba5461;
+}
+
+.eco_pricing_table_green ul li {
+	color: #ba5461;
+}
+
+.eco_pricing_table_green .eco_pricing_tabel_button {
+	background: #ba5461;
+}
+
+.eco_pricing_table_green ul {
+	border-bottom-color: #ba5461;
+}
+
+.ih-item.circle.effect1 .spinner {
+	border: 10px solid #ba5461;
+	border-right-color: #333;
+	border-bottom-color: #333;
+}
+
+.ih-item.square.effect9 .info h3 {
+	background: #ba5461;
+}
+
+.ih-item.square.effect9.colored .info h3 {
+	background: #ba5461;
+}
+
+.eco_box_icon {
+	background: #ba5461;
+	border-color: #ba5461;
+}
+
+.eco_count_icon i {
+	color: #ba5461;
+}
+
+.eco_count:hover .eco_count_border {
+	background: #ba5461;
+}
+
+.eco_readmore,
+.garden_chooseus_icon span,
+.garden_chooseus_icon span {
+	background: #ba5461;
+}
+
+.eco_error_page {
+	background: #ba5461;
+}
+
+.eco_contact_info i {
+	color: #ba5461;
+}
+
+.eco_full_text a:hover {
+	border-color: #ba5461;
+}
+
+.eco_toggle_menu {
+	color: #ba5461;
+}
+
+.eco_choose_us_gallery:hover .garden_overlay_icon.gallery a:hover,
+.garden_team_img .garden_team_overlay ul li:hover span,
+.garden_teamdata h6,
+.garden_teamdata ul li a i,
+.garden_home2_gallery .eco_ach_image:hover .garden_overlay_icon.gallery a:hover {
+	color: #ba5461;
+}
+
+header.garden_header1,
+header {
+	background-color: #ba5461;
+}
+
+.px_footer_content li a {
+	background: #ba5461;
+}
+
+.px_footer_tag a {
+	background: #ba5461;
+}
+
+.px_error_page {
+	background: #ba5461;
+}
+
+ul.px_filter_title li a:hover,
+ul.px_filter_title li a.active {
+	background: #ba5461;
+}
+
+.px_readmore {
+	background: #ba5461;
+}
+
+.px_port_text {
+	background: #ba5461;
+}
+
+.px_footer_tag a:hover {
+	color: #ba5461;
+	background: #fff;
+	border: 1px solid #ba5461;
+}
+
+.px_service_icon {
+	background-color: #ba5461;
+}
+
+.px_btn {
+	background-color: #ba5461;
+	border-bottom-color: #a93d4a;
+}
+
+.px_img_icon {
+	background-color: #ba5461;
+}
+
+.px_color {
+	color: #ba5461;
+}
+
+.px_restoration ul li .px_restoration_content .px_restoration_img {
+	background-color: #ba5461;
+}
+.px_social_content ul li:hover a .fa::before{
+	color: #ba5461;
+}
+.rev_slider .tp-mask-wrap .tp-caption.tp-shape.tp-shapewrapper.rs-parallaxlevel-3 {
+    background-color: #ba5461 !important;
+}
+.garden_teamdata ul li a:hover {
+    background: rgb(76 34 39);
+    border-color: rgb(76 34 39);
+}
+.px_search_form, .px_search_form1 {
+    background: #4c2227;
+}
+ul.my_menu ul.sub-menu li{
+	border-bottom: 1px solid rgb(188 83 97);
+}
+.px_contact_btn a:hover {
+    background: #ba5461;
+}
+.wraper {
+    background: url(../images/background-recycle-icon1.png) 50% 0px rgb(76 34 39);
+}
+.wraper::after {
+    border-top: 30px solid rgb(76 34 39);
+}
+.px_border_line{
+	background: #ba5461;
+}
+ul.my_menu li.px_bigmenu ul.sub-menu li.px_pmcmenutitle ul.sub-menu li:hover a {
+    color: rgb(195 105 117) !important;
+}
+.px_home_count i{
+    color: #ba5461;
+}
+.px_count_number_border {
+    background-color: #ba5461;
+}
+.px_transprant_header {
+    background: rgb(186 84 97) !important;
+}
+.px_question_section{
+	background-color: #ba5461;
+}
+.px_full_text a:hover {
+    border-color: #ba5461;
+}
+.px_blog_info span a, .px_blog_info a{
+	color: #ba5461;
+}
+.px_blog_icon:after, .px_blog_icon{
+	background-color: #ba5461;
+}
+.px_sidebar_post:hover .px_sidebar_line {
+    border-bottom-color: #a93d4a;
+}
+.px_port_min_recentimage{
+	border-top: 4px solid rgb(76 34 39);
+}
+.px_inner_page  span.swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background: #ba5461;
+}
+div#circles-1 svg path:nth-child(2), div#circles-3 svg path:nth-child(2) {
+    stroke: #ba5461;
+}
+.px_port_skill i, .px_color5, .px_count_icon i {
+    color: #bc5361;
+}
+.px_count:hover .px_count_border{
+	background-color:#bc5361;
+}
+.px_box_icon {
+    background: #bc5361;
+    border: 4px solid #bc5361;
+}
+.px_rounded_pricetable.px_pricing_green .px_pricing_heading .px_table_price, .px_pricing_table_green .px_table_price {
+    background: #bc5361;
+    border-color: #a93d4a;
+}
+.px_rounded_pricetable.px_pricing_green ul, .px_pricing_table_green .px_pricing_tabel_button {
+    background: #bc5361;
+}
+.px_pricing_green, .px_rounded_pricetable.px_pricing_green .px_pricing_heading, .px_rounded_pricetable.px_pricing_green a, 
+.px_rounded_pricetable.px_pricing_green a {
+	background-color: #a93d4a;
+}
+.px_pricing_table_green ul li, .px_pricing_table_green .px_pricing_heading h4 {
+    color: #bc5361;
+}
+.px_pricing_table_green ul, .px_pricing_table_green .px_pricing_heading {
+    border-bottom-color: #bc5361;
+}
+.px_img_post_data ul li img:hover {
+    border: 6px solid #bc5361;
+}
+@media (max-width: 767px) {
+	ul.my_menu ul.sub-menu li:hover {
+		background: none;
+	}
+
+	ul.my_menu ul.sub-menu li a:before {
+		background: #ba5461;
+	}
+
+	ul.navbar-nav li a.active,
+	.fixedmenu ul.menu li a.active,
+	ul.my_menu ul.sub-menu li a.active {
+		color: #fff !important;
+	}
+	.navbar-nav > li > a{
+		border-bottom: 1px solid #ba5461;
+	}
+	ul.my_menu li.px_bigmenu ul.sub-menu li.px_pmcmenutitle:nth-child(2n), ul.my_menu li.px_bigmenu ul.sub-menu li.px_pmcmenutitle{
+		border-bottom: 1px solid #ba5461 !important;
+	}
+}
